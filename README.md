@@ -8,6 +8,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juryyy&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juryyy&show_icons=true&locale=en&layout=compact" alt="My Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Juryyy&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
