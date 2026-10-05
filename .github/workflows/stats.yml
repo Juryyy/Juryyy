@@ -1,0 +1,42 @@
+name: Stats
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["stats/**", ".github/workflows/stats.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Test
+        run: python3 -m unittest discover -s stats -v
+
+      # STATS_TOKEN only reads; the push below uses the built-in GITHUB_TOKEN
+      - name: Generate
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: python3 stats/generate.py
+
+      - name: Commit if changed
+        run: |
+          git add assets
+          if git diff --cached --quiet; then
+            echo "Stats unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update stats"
+          git push

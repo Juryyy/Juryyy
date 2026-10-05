@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" role="img" aria-label="Languages">
+<title>Languages</title>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.h{font-size:16px;font-weight:600;fill:#f0f6fc}.n{font-size:13px;fill:#f0f6fc}.p{font-size:13px;fill:#9198a1}.v{font-size:26px;font-weight:600;fill:#f0f6fc}.l{font-size:12px;fill:#9198a1}</style>
+<rect x="0.5" y="0.5" width="399" height="199" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text class="h" x="24" y="36">Languages</text>
+<clipPath id="bar"><rect x="24" y="52" width="352" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+<rect x="24.00" y="52" width="126.63" height="8" fill="#3572A5"/>
+<rect x="150.63" y="52" width="117.35" height="8" fill="#3178c6"/>
+<rect x="267.98" y="52" width="48.27" height="8" fill="#41b883"/>
+<rect x="316.24" y="52" width="25.92" height="8" fill="#b07219"/>
+<rect x="342.16" y="52" width="14.86" height="8" fill="#f1e05a"/>
+<rect x="357.02" y="52" width="6.64" height="8" fill="#e34c26"/>
+<rect x="363.67" y="52" width="2.80" height="8" fill="#663399"/>
+<rect x="366.47" y="52" width="2.04" height="8" fill="#89e051"/>
+<rect x="368.51" y="52" width="7.49" height="8" fill="#8b949e"/>
+<rect x="149.63" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="266.98" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="315.24" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="341.16" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="356.02" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="362.67" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="365.47" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="367.51" y="52" width="2" height="8" fill="#0d1117"/>
+</g>
+<circle cx="29" cy="87.5" r="5" fill="#3572A5"/>
+<text class="n" x="40" y="92">Python</text>
+<text class="p" x="184" y="92" text-anchor="end">36.0%</text>
+<circle cx="29" cy="109.5" r="5" fill="#3178c6"/>
+<text class="n" x="40" y="114">TypeScript</text>
+<text class="p" x="184" y="114" text-anchor="end">33.3%</text>
+<circle cx="29" cy="131.5" r="5" fill="#41b883"/>
+<text class="n" x="40" y="136">Vue</text>
+<text class="p" x="184" y="136" text-anchor="end">13.7%</text>
+<circle cx="29" cy="153.5" r="5" fill="#b07219"/>
+<text class="n" x="40" y="158">Java</text>
+<text class="p" x="184" y="158" text-anchor="end">7.4%</text>
+<circle cx="29" cy="175.5" r="5" fill="#f1e05a"/>
+<text class="n" x="40" y="180">JavaScript</text>
+<text class="p" x="184" y="180" text-anchor="end">4.2%</text>
+<circle cx="213" cy="87.5" r="5" fill="#e34c26"/>
+<text class="n" x="224" y="92">HTML</text>
+<text class="p" x="368" y="92" text-anchor="end">1.9%</text>
+<circle cx="213" cy="109.5" r="5" fill="#663399"/>
+<text class="n" x="224" y="114">CSS</text>
+<text class="p" x="368" y="114" text-anchor="end">0.8%</text>
+<circle cx="213" cy="131.5" r="5" fill="#89e051"/>
+<text class="n" x="224" y="136">Shell</text>
+<text class="p" x="368" y="136" text-anchor="end">0.6%</text>
+<circle cx="213" cy="153.5" r="5" fill="#8b949e"/>
+<text class="n" x="224" y="158">Other</text>
+<text class="p" x="368" y="158" text-anchor="end">2.1%</text>
+</svg>
