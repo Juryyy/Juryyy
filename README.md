@@ -1,7 +1,7 @@
 # Hi, I'm Martin 👋
 
 Web developer from Czechia with a soft spot for the backend.
-I also teach programming at MENDELU: Python, Java and JavaScript.
+I also teach programming at MENDELU: Javascript/Typescript, Java, Python.
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nodejs,python,java,spring,vue,postgres,redis,docker,linux" alt="TypeScript, Node.js, Python, Java, Spring, Vue, PostgreSQL, Redis, Docker, Linux" />
