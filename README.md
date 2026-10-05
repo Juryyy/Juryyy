@@ -11,7 +11,7 @@ I also teach programming at MENDELU: Javascript/Typescript, Java, Python.
 
 | Project | What it is |
 |---|---|
-| **P.A.R.K.** | Admin system for a Cambridge language-exam centre: exam scheduling, examiner and invigilator availability, documents and PDF reports. Started as my bachelor's thesis.<br><sub>Vue 3 · Quasar · Express · Prisma · PostgreSQL · JWT with 2FA · Microsoft Graph · private repo</sub> |
+| **[P.A.R.K.](https://www.zkouskypark.cz/)** | Admin system for a Cambridge language-exam centre: exam scheduling, examiner and invigilator availability, documents and PDF reports. Started as my bachelor's thesis.<br><sub>Vue 3 · Quasar · Express · Prisma · PostgreSQL · JWT with 2FA · Microsoft Graph · private repo</sub> |
 | **[My MENDELU](https://my.mendelu.cz/)** | University portal for students and graduates. I'm the product owner of the web part and build and run it end to end: backend, database, two frontends (students and graduates) and the DevOps.<br><sub>private repo</sub> |
 | **[Henry](https://github.com/Juryyy/Henry)** 🚧 | Self-hosted fitness PWA: weekly step debt, exercise blocks and push notifications that arrive even when the app is closed. Work in progress.<br><sub>Vue · Express · TypeScript · WebAuthn · Web Push</sub> |
 | **[warehouse-simulation](https://github.com/Juryyy/warehouse-simulation)** | Mini project: an automated warehouse with AGV robots, simulated with SimPy and shown in 3D with Panda3D.<br><sub>Python · SimPy · Panda3D</sub> |
