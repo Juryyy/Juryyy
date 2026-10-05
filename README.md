@@ -2,6 +2,7 @@
 
 Web developer from Czechia with a soft spot for the backend.
 I also teach programming at MENDELU: Javascript/Typescript, Java, Python.
+Previously, I worked at AT&T as a software developer and data analyst.
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nodejs,python,java,spring,vue,postgres,redis,docker,linux" alt="TypeScript, Node.js, Python, Java, Spring, Vue, PostgreSQL, Redis, Docker, Linux" />
