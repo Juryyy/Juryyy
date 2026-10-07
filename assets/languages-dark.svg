@@ -5,18 +5,18 @@
 <text class="h" x="24" y="36">Languages</text>
 <clipPath id="bar"><rect x="24" y="52" width="352" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="52" width="125.87" height="8" fill="#3572A5"/>
-<rect x="149.87" y="52" width="116.07" height="8" fill="#3178c6"/>
-<rect x="265.94" y="52" width="47.84" height="8" fill="#41b883"/>
-<rect x="313.79" y="52" width="27.19" height="8" fill="#b07219"/>
+<rect x="24.00" y="52" width="125.85" height="8" fill="#3572A5"/>
+<rect x="149.85" y="52" width="116.08" height="8" fill="#3178c6"/>
+<rect x="265.93" y="52" width="47.85" height="8" fill="#41b883"/>
+<rect x="313.78" y="52" width="27.19" height="8" fill="#b07219"/>
 <rect x="340.97" y="52" width="16.21" height="8" fill="#f1e05a"/>
 <rect x="357.18" y="52" width="6.57" height="8" fill="#e34c26"/>
 <rect x="363.75" y="52" width="2.82" height="8" fill="#663399"/>
 <rect x="366.57" y="52" width="2.02" height="8" fill="#89e051"/>
 <rect x="368.59" y="52" width="7.41" height="8" fill="#8b949e"/>
-<rect x="148.87" y="52" width="2" height="8" fill="#0d1117"/>
-<rect x="264.94" y="52" width="2" height="8" fill="#0d1117"/>
-<rect x="312.79" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="148.85" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="264.93" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="312.78" y="52" width="2" height="8" fill="#0d1117"/>
 <rect x="339.97" y="52" width="2" height="8" fill="#0d1117"/>
 <rect x="356.18" y="52" width="2" height="8" fill="#0d1117"/>
 <rect x="362.75" y="52" width="2" height="8" fill="#0d1117"/>
