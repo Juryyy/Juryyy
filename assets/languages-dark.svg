@@ -5,36 +5,36 @@
 <text class="h" x="24" y="36">Languages</text>
 <clipPath id="bar"><rect x="24" y="52" width="352" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="52" width="137.01" height="8" fill="#3572A5"/>
-<rect x="161.01" y="52" width="103.84" height="8" fill="#3178c6"/>
-<rect x="264.85" y="52" width="44.31" height="8" fill="#b07219"/>
-<rect x="309.16" y="52" width="42.56" height="8" fill="#41b883"/>
-<rect x="351.73" y="52" width="7.90" height="8" fill="#e34c26"/>
-<rect x="359.62" y="52" width="5.31" height="8" fill="#f1e05a"/>
-<rect x="364.93" y="52" width="2.92" height="8" fill="#89e051"/>
-<rect x="367.85" y="52" width="1.96" height="8" fill="#663399"/>
-<rect x="369.82" y="52" width="6.18" height="8" fill="#8b949e"/>
-<rect x="160.01" y="52" width="2" height="8" fill="#0d1117"/>
-<rect x="263.85" y="52" width="2" height="8" fill="#0d1117"/>
-<rect x="308.16" y="52" width="2" height="8" fill="#0d1117"/>
-<rect x="350.73" y="52" width="2" height="8" fill="#0d1117"/>
-<rect x="358.62" y="52" width="2" height="8" fill="#0d1117"/>
-<rect x="363.93" y="52" width="2" height="8" fill="#0d1117"/>
-<rect x="366.85" y="52" width="2" height="8" fill="#0d1117"/>
-<rect x="368.82" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="24.00" y="52" width="141.88" height="8" fill="#3572A5"/>
+<rect x="165.88" y="52" width="101.49" height="8" fill="#3178c6"/>
+<rect x="267.37" y="52" width="43.30" height="8" fill="#b07219"/>
+<rect x="310.67" y="52" width="41.60" height="8" fill="#41b883"/>
+<rect x="352.27" y="52" width="7.70" height="8" fill="#e34c26"/>
+<rect x="359.97" y="52" width="5.12" height="8" fill="#f1e05a"/>
+<rect x="365.09" y="52" width="2.95" height="8" fill="#89e051"/>
+<rect x="368.04" y="52" width="1.92" height="8" fill="#663399"/>
+<rect x="369.96" y="52" width="6.04" height="8" fill="#8b949e"/>
+<rect x="164.88" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="266.37" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="309.67" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="351.27" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="358.97" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="364.09" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="367.04" y="52" width="2" height="8" fill="#0d1117"/>
+<rect x="368.96" y="52" width="2" height="8" fill="#0d1117"/>
 </g>
 <circle cx="29" cy="87.5" r="5" fill="#3572A5"/>
 <text class="n" x="40" y="92">Python</text>
-<text class="p" x="184" y="92" text-anchor="end">38.9%</text>
+<text class="p" x="184" y="92" text-anchor="end">40.3%</text>
 <circle cx="29" cy="109.5" r="5" fill="#3178c6"/>
 <text class="n" x="40" y="114">TypeScript</text>
-<text class="p" x="184" y="114" text-anchor="end">29.5%</text>
+<text class="p" x="184" y="114" text-anchor="end">28.8%</text>
 <circle cx="29" cy="131.5" r="5" fill="#b07219"/>
 <text class="n" x="40" y="136">Java</text>
-<text class="p" x="184" y="136" text-anchor="end">12.6%</text>
+<text class="p" x="184" y="136" text-anchor="end">12.3%</text>
 <circle cx="29" cy="153.5" r="5" fill="#41b883"/>
 <text class="n" x="40" y="158">Vue</text>
-<text class="p" x="184" y="158" text-anchor="end">12.1%</text>
+<text class="p" x="184" y="158" text-anchor="end">11.8%</text>
 <circle cx="29" cy="175.5" r="5" fill="#e34c26"/>
 <text class="n" x="40" y="180">HTML</text>
 <text class="p" x="184" y="180" text-anchor="end">2.2%</text>
@@ -46,8 +46,8 @@
 <text class="p" x="368" y="114" text-anchor="end">0.8%</text>
 <circle cx="213" cy="131.5" r="5" fill="#663399"/>
 <text class="n" x="224" y="136">CSS</text>
-<text class="p" x="368" y="136" text-anchor="end">0.6%</text>
+<text class="p" x="368" y="136" text-anchor="end">0.5%</text>
 <circle cx="213" cy="153.5" r="5" fill="#8b949e"/>
 <text class="n" x="224" y="158">Other</text>
-<text class="p" x="368" y="158" text-anchor="end">1.8%</text>
+<text class="p" x="368" y="158" text-anchor="end">1.7%</text>
 </svg>
